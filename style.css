@@ -31,7 +31,7 @@ table, th, td {
     text-align: justify;
 }
 .footer {
-    left: 0;
+    left: 1;
     bottom: 0;
     width: 100%;
     background-color: #7eadde;
